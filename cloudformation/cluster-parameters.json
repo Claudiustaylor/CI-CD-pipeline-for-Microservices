@@ -1,0 +1,6 @@
+[
+    { "ParameterKey": "DesiredCount", "ParameterValue": "1" },
+    { "ParameterKey": "EnvironmentName", "ParameterValue": "NanoUdacity" },
+
+    { "ParameterKey": "ServiceName", "ParameterValue": "helloWorld" }
+]
